@@ -1,0 +1,20 @@
+.oculto{
+    display: none;
+}
+
+body{
+    text-align: center;
+}
+
+h1{
+    margin-top: 1%;
+}
+
+img{
+    border-radius: 30px;
+    max-width: 100%;
+}
+
+.row{
+    margin-top: 5%;
+}
